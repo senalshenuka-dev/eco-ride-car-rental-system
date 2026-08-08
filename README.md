@@ -95,8 +95,4 @@ The current implementation stores cars, customers, reservations, and the admin p
 
 ## License
 
-<<<<<<< HEAD
 No license has been specified for this project.
-=======
-No license has been specified for this project.
->>>>>>> 2d05a92475150deca98ece4e1ff5780924545b42
